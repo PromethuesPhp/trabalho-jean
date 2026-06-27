@@ -1,0 +1,16 @@
+[
+  {
+    "data": "26/06/2026 21:39",
+    "tipo": "receita",
+    "categoria": "salario",
+    "descricao": "mês 7",
+    "valor": 6950.0
+  },
+  {
+    "data": "26/06/2026 21:39",
+    "tipo": "despesa",
+    "categoria": "salario",
+    "descricao": "despesa",
+    "valor": 2000.0
+  }
+]
